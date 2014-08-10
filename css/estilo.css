@@ -1,0 +1,5 @@
+.bloco1, .bloco2{padding: 8px;}
+.bloco1{background-color: #ccc;}
+.bloco2{background-color: #ff7f00;}
+
+img{height: 200px; width: 200px; border: 1px solid black; margin: 20px;}
